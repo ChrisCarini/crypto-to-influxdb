@@ -1,0 +1,28 @@
+# (Optional) Flag to enable debug mode; prints more log output.
+DEBUG_FLAG: false
+
+# (Required) The hostname of InfluxDB.
+INFLUXDB_DB_NAME: crypto
+
+# (Required) The port of InfluxDB.
+INFLUXDB_HOST: influx.example.com
+
+# (Required) The name of the InfluxDB database.
+INFLUXDB_PORT: 8086
+
+currencies:
+  - source:
+      - binancecoin
+      - binance-usd
+      - bitcoin
+      - bitcoin-cash
+      - dogecoin
+      - ethereum
+      - helium
+      - litecoin
+      - monero
+      - ripple
+      - usd-coin
+    destination:
+      - usd
+

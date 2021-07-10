@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  crypto_to_influxdb:
+    build: .
+    volumes:
+      - ${PWD}/config.yaml:/config.yaml:ro

@@ -1,6 +1,6 @@
 APScheduler==3.10.4
 certifi==2024.7.4
-chardet==4.0.0
+chardet==5.2.0
 idna==3.7
 influxdb==5.3.2
 msgpack==1.0.2

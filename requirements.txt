@@ -1,4 +1,4 @@
-APScheduler==3.11.0
+APScheduler==3.11.1
 certifi==2025.10.5
 chardet==5.2.0
 idna==3.11

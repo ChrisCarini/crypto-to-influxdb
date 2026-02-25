@@ -1,5 +1,5 @@
 APScheduler==3.11.2
-certifi==2026.1.4
+certifi==2026.2.25
 chardet==6.0.0.post1
 idna==3.11
 influxdb==5.3.2

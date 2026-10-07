@@ -6,7 +6,7 @@ influxdb==5.3.2
 msgpack==1.2.3
 pycoingecko==3.2.0
 python-dateutil==2.9.0.post0
-pytz==2026.4
+pytz==2026.5
 PyYAML==6.0.3
 requests==2.34.2
 six==1.17.0

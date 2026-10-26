@@ -10,5 +10,5 @@ pytz==2026.5
 PyYAML==6.0.3
 requests==2.34.2
 six==1.17.0
-tzlocal==5.4.4
+tzlocal==5.4.5
 urllib3==2.8.0

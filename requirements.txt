@@ -7,7 +7,7 @@ msgpack==1.2.4
 pycoingecko==3.2.0
 python-dateutil==4.0.0
 pytz==2026.6
-PyYAML==6.0.3
+PyYAML==6.0.4
 requests==2.34.2
 six==1.17.0
 tzlocal==5.4.5
